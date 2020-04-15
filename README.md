@@ -1,0 +1,1 @@
+# example-shop.simple10.com
